@@ -1,0 +1,9 @@
+K:\JkobScrip\LangMerger\bin\Debug\ExcelConverter.exe.config
+K:\JkobScrip\LangMerger\bin\Debug\ExcelConverter.exe
+K:\JkobScrip\LangMerger\bin\Debug\ExcelConverter.pdb
+K:\JkobScrip\LangMerger\obj\Debug\LangMerger.csproj.AssemblyReference.cache
+K:\JkobScrip\LangMerger\obj\Debug\LangMerger.csproj.SuggestedBindingRedirects.cache
+K:\JkobScrip\LangMerger\obj\Debug\LangMerger.csproj.ResolveComReference.cache
+K:\JkobScrip\LangMerger\obj\Debug\LangMerger.csproj.CoreCompileInputs.cache
+K:\JkobScrip\LangMerger\obj\Debug\ExcelConverter.exe
+K:\JkobScrip\LangMerger\obj\Debug\ExcelConverter.pdb

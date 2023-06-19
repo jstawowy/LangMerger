@@ -1,0 +1,9 @@
+K:\JkobScrip\ExcelConverter\bin\Debug\ExcelConverter.exe.config
+K:\JkobScrip\ExcelConverter\bin\Debug\ExcelConverter.exe
+K:\JkobScrip\ExcelConverter\bin\Debug\ExcelConverter.pdb
+K:\JkobScrip\ExcelConverter\obj\Debug\ExcelConverter.csproj.AssemblyReference.cache
+K:\JkobScrip\ExcelConverter\obj\Debug\ExcelConverter.csproj.SuggestedBindingRedirects.cache
+K:\JkobScrip\ExcelConverter\obj\Debug\ExcelConverter.csproj.ResolveComReference.cache
+K:\JkobScrip\ExcelConverter\obj\Debug\ExcelConverter.csproj.CoreCompileInputs.cache
+K:\JkobScrip\ExcelConverter\obj\Debug\ExcelConverter.exe
+K:\JkobScrip\ExcelConverter\obj\Debug\ExcelConverter.pdb
